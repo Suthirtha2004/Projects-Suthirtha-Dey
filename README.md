@@ -1,4 +1,4 @@
 # suthi-demo
 First repository
 <br>
-Author - Suthirtha Dey
+Author - Suthirtha Dey (Btech)
